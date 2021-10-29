@@ -1,0 +1,36 @@
+Gender,Industry,Estimate
+Male,    Construction,50564
+Male,    Manufacturing,41762
+Male,    Wholesale trade,56902
+Male,    Retail trade,32845
+Male,        Transportation and warehousing,40920
+Male,        Utilities,101146
+Male,    Information,57303
+Male,        Finance and insurance,75043
+Male,        Real estate and rental and leasing,31530
+Male,"        Professional, scientific, and technical services",46837
+Male,        Management of companies and enterprises,-
+Male,        Administrative and support and waste management services,38824
+Male,        Educational services,34591
+Male,        Health care and social assistance,57324
+Male,"        Arts, entertainment, and recreation",72363
+Male,        Accommodation and food services,21784
+Male,"    Other services, except public administration",32667
+Male,    Public administration,76356
+Female,    Construction,26818
+Female,    Manufacturing,41692
+Female,    Wholesale trade,-
+Female,    Retail trade,21989
+Female,        Transportation and warehousing,38464
+Female,        Utilities,-
+Female,        Finance and insurance,56455
+Female,        Real estate and rental and leasing,90903
+Female,"        Professional, scientific, and technical services",39646
+Female,        Management of companies and enterprises,117788
+Female,        Administrative and support and waste management services,21565
+Female,        Educational services,34122
+Female,        Health care and social assistance,42009
+Female,"        Arts, entertainment, and recreation",8737
+Female,        Accommodation and food services,16624
+Female,"    Other services, except public administration",18261
+Female,    Public administration,49833
